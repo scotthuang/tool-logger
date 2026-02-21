@@ -1,0 +1,8 @@
+{
+  "id": "tool-logger",
+  "configSchema": {
+    "type": "object",
+    "properties": {},
+    "additionalProperties": false
+  }
+}
