@@ -6,5 +6,12 @@
   "type": "module",
   "openclaw": {
     "extensions": ["./index.ts"]
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.0"
   }
 }
