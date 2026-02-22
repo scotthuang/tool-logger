@@ -1,6 +1,6 @@
 {
   "name": "@scotthuang/tool-logger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Log all tool inputs and outputs in OpenClaw",
   "main": "index.ts",
   "type": "module",
